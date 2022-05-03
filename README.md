@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/wanghm/github-profile-trophy"><h2>Github Profile Trophy</h2></a>
-<a href="https://github.com/wanghm/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=wanghm&column=8&theme=flat&no-frame=true&rank=-B,-C"/>
-</a>
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=wanghm&column=8&theme=flat&no-frame=true&rank=-B,-C"/>
+
 
 
 ---
