@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=wanghm&column=8&theme=flat&no-frame=true&rank=-B,-C"/>
--->
-
-
 # GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wanghm&count_private=true&show_icons=true" />
@@ -29,29 +24,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghm" />
 </a>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wanghm&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wanghm&count_private=true&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=wanghm&count_private=true&show_icons=true" />
-</picture>
 
-
-<!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanghm&count_private=true&show_icons=true&theme=transparent)](https://github.com/wanghm/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghm&theme=transparent)](https://github.com/wanghm/github-readme-stats)
--->
-
-<!--
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wanghm&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghm&layout=compact" />
-</div>
--->
