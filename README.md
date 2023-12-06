@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=wanghm&column=8&theme=flat&no-frame=true&rank=-B,-C"/>
 -->
 
-# My GitHub Stats
+# Huimin Wang's GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanghm&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghm)](https://github.com/anuraghazra/github-readme-stats)
