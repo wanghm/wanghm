@@ -29,6 +29,19 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghm" />
 </a>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=wanghm&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=wanghm&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wanghm&show_icons=true" />
+</picture>
+
+
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanghm&count_private=true&show_icons=true&theme=transparent)](https://github.com/wanghm/github-readme-stats)
 
