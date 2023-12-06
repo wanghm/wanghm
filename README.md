@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 -->
 
 # My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanghm&count_private=true&show_icons=true&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanghm&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghm&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
